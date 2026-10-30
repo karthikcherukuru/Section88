@@ -1,0 +1,19 @@
+node_modules/
+.next/
+out/
+coverage/
+playwright-report/
+test-results/
+.npm-cache/
+.env*
+!.env.example
+.vercel/
+*.tsbuildinfo
+next-env.d.ts
+*.log
+.DS_Store
+
+# generated audit/test artifacts (screenshots, traces)
+/*-artifacts/
+/section88_*.png
+/.codex/
